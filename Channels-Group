@@ -1,2 +1,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports FHD (OP2)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports
 https://edge5-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="ESPN HD" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="67" tvg-name="SporTV HD" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="26" tvg-name="SporTV 2 HD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes FHD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="22" tvg-name="TNT HD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT HD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="52" tvg-name="ESPN 4 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title="ESPORTES",ESPN 4 SD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 SD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8|Referer=https://futemax.app/
