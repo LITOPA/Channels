@@ -1,87 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports FHD (OP2)" tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="Deportes",TNT Sports
-https://edge5-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="ESPN HD" tvg-logo="http://ux.minhatela.vip:80/images/fd54991b4f0ff001b18bce605ead7c50.png" group-title="ESPORTES",ESPN HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="67" tvg-name="SporTV HD" tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="ESPORTES",SporTV HD
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="26" tvg-name="SporTV 2 HD" tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="ESPORTES",SporTV 2 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="PREMIERES",Premiere Clubes FHD
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="22" tvg-name="TNT HD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="FILMES E SERIES",TNT HD
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="52" tvg-name="ESPN 4 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title="ESPORTES",ESPN 4 SD
-https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="ESPORTES",ESPN 2 SD
-https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1,¡¡ FUTEBOL
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8|Referer=https://futemax.app/
-#EXTINF:-1tvg-logo="https://www.5dias.com.py/assets/img/core/logo-og-share.png"group-title="PARAGUAY",5DIAS
-http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1524095739663568897/iHeRnHnV_400x400.jpg"group-title="PARAGUAY",LATELE
-http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgEAUDGkCv58sW_L1_s22VkXjU44JMgpGpRy0QBl1ZCIpcBtFxEF-ywysIcbhwcugXoA&usqp=CAU"group-title="PARAGUAY",NOTICIASPY
-http://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1058069830002188288/cJQbekKt_400x400.jpg"group-title="PARAGUAY",SNT
-http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg"group-title="PARAGUAY",SURTV
-http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg"group-title="PARAGUAY",TELEFUTURO
-http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1517875013591969792/o_KEarW-_400x400.jpg"group-title="PARAGUAY",TVCAMARA
-http://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
-#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-3EozzddZxGk/YTYVy-VG35I/AAAAAAAAQaU/NCzsUwnlU-gYsNdfbU4Lglv7kZlLFD8WwCLcBGAsYHQ/s440/Unicanal%2Ben%2Bvivo.jpg"group-title="PARAGUAY",UNICANAL
-http://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg"group-title="PARAGUAY",ABC
-http://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_SAGEMCOM/ABC_TV_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1513636098840449026/fjyEOfaQ_400x400.jpg"group-title="PARAGUAY",C9N
-http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/media/Crdvw-oWcAA47-k?format=jpg&name=small"group-title="PARAGUAY",RPC
-http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-#EXTINF:-1tvg-logo="https://gestion.almaya.com.py/views/img/plantilla/logotipo.png"group-title="PARAGUAY",ALMAYATV
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg"group-title="PARAGUAY",BMTV
-https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="PARAGUAY",CANAL8VISIONTV
-https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1253897472944062465/pqZXWzNU_400x400.jpg"group-title="PARAGUAY",CANAL12RTV
-https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
-#EXTINF:-1tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F1tXGMUJwLXJv-8Za0De9xB36Q4z3FSAHyin48DGFbXg%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F5TjZFeGdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFxcG5UdFFzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTYwMzYyMTU1NDAwMA.webp&w=1920&q=75"group-title="PARAGUAY",DISMAR
-http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1192886528567119872/8yFiy1W6_400x400.jpg"group-title="PARAGUAY",EDUCANAL
-https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
-#EXTINF:-1tvg-logo="https://scontent.faep26-1.fna.fbcdn.net/v/t1.6435-1/84649324_3437850246285792_7790620072745107456_n.jpg?stp=dst-jpg_p148x148&_nc_cat=104&ccb=1-6&_nc_sid=1eb0c7&_nc_eui2=AeFbhpRVVIp2jmtKuaS73DJll-0fYqam362X7R9ipqbfrbqTdZJeWpLXN5GV701WDm0&_nc_ohc=LCJ57mP1HVsAX-KGhVW&_nc_ht=scontent.faep26-1.fna&oh=00_AT8yZ_QbWrylzLS96yuhZ2SrHK852z35HB2JydHG7wPsmw&oe=629DA4FF"group-title="PARAGUAY",ESTACIONCRISTALTV
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1323264654479675393/PiSulaAu_400x400.jpg"group-title="PARAGUAY",FARRAPLAY
-http://159.203.148.226/live/farra_low.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU"group-title="PARAGUAY",FrutillarTV
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF_400x400.jpg"group-title="PARAGUAY",KOATV
-https://panel.dattalive.com/8028/8028/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1455129807579193346/SOg3tc23_400x400.jpg"group-title="PARAGUAY",ÑANDUTITV
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
-#EXTINF:-1tvg-logo="https://www.oviedotv.com.py/gallery/123123123-ts1623872171.png"group-title="PARAGUAY",OVIEDOTV
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/chunklist_w1931071386.m3u8
-#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/GKj8jW44eq__taywN5N3m6B1KYuQ2bznKzsbcad-PtT2fh8W0D61iEvZyG2VeRP8nw"group-title="PARAGUAY",MITV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/O15UACZrUnPluINHW_CWb0SnshNfxathtHSiSNGricYCWLPL7QMOEXe7rF34AT_cm280"group-title="PARAGUAY",RADIOPIRAPEYFM
-https://59ce1298bfb98.streamlock.net/pirapeytv/pirapeytv/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png"group-title="PARAGUAY",RCC
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-#EXTINF:-1tvg-logo="http://www.senado.gov.py/images/logos-iconos/boton-senadotv.png"group-title="PARAGUAY",SENADOTV
-https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1524095739663568897/iHeRnHnV_400x400.jpg"group-title="PARAGUAY",LATELE
-http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgEAUDGkCv58sW_L1_s22VkXjU44JMgpGpRy0QBl1ZCIpcBtFxEF-ywysIcbhwcugXoA&usqp=CAU"group-title="PARAGUAY",NOTICIASPY
-http://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1058069830002188288/cJQbekKt_400x400.jpg"group-title="PARAGUAY",SNT
-http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg"group-title="PARAGUAY",SURTV
-http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg"group-title="PARAGUAY",TELEFUTURO
-http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1517875013591969792/o_KEarW-_400x400.jpg"group-title="PARAGUAY",TVCAMARA
-http://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
 #EXTINF:-1 tvg-id="a03e" tvg-name="PAR | TELEFUTURO HD" tvg-logo="https://static.epg.best/py/Telefuturo.py.png" group-title="NACIONALES",PAR | TELEFUTURO HD
 http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1 tvg-id="a0gw" tvg-name="PAR | GEN TV HD" tvg-logo="https://od.lk/s/ODBfMzI1NDMxMTFf/GEN%20TV.png" group-title="NACIONALES",PAR | GEN TV HD
@@ -506,9 +422,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="Mexico", (ONLINE) Karaoke por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Mexico", (ONLINE) MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="Mexico", (ONLINE) MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
