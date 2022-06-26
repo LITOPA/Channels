@@ -30,6 +30,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-id="58" tvg-name="Premiere Clubes FHD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="DEPORTES",Premiere Clubes FHD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="59" tvg-name="Premiere 2 HD" tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title="DEPORTES",Premiere 2 HD
+https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-id="22" tvg-name="TNT HD" tvg-logo="http://u.meulogin.net:80/images/5556d55688189f847c0ed29f98e7de26.png" group-title="PELICULAS",TNT HD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-id="52" tvg-name="ESPN 4 SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title="DEPORTES",ESPN 4 SD BR
