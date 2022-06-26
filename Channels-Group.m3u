@@ -16,8 +16,6 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatr
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1,¡¡ FUTEBOL
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8|Referer=https://futemax.app/
-#EXTINF:-1group-title="TestadorIPTV",GeradoporTestadorIPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 #EXTINF:-1tvg-logo="https://www.5dias.com.py/assets/img/core/logo-og-share.png"group-title="PARAGUAY",5DIAS
 http://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
 #EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/1524095739663568897/iHeRnHnV_400x400.jpg"group-title="PARAGUAY",LATELE
