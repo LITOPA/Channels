@@ -46,6 +46,8 @@ http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_1452
 https://edge-vod04-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 HD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",ESPN 3  (ARG)
 https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 tvg-id="a01h" tvg-name="DEPORTES |  ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/640px-ESPN4_logo.png" group-title="DEPORTES",DEPORTES |  ESPN 4
+http://edge4-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="DEPORTES",TNT SPORT HD
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="a02u" tvg-name="DEPORTES | ESPN EXTRA HD" tvg-logo="https://static.epg.best/ar/ESPN2.ar.png" group-title="DEPORTES",DEPORTES | ESPN EXTRA
@@ -100,8 +102,6 @@ http://edge4-sl.cvattv.com.ar/live/live/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 http://edge-live34-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="a02y" tvg-name="CULTURA | NAT GEO WILD" tvg-logo="https://static.epg.best/mx/Nao.mx.png" group-title="CULTURA",CULTURA | NAT GEO WILD
 http://edge-live32-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
-#EXTINF:-1 tvg-id="a01h" tvg-name="DEPORTES |  ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ESPN4_logo.png/640px-ESPN4_logo.png" group-title="DEPORTES",DEPORTES |  ESPN 4
-http://edge4-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-id="a013" tvg-name="DEPORTES | FOX SPORTS 2 ARG" tvg-logo="https://static.epg.best/ar/FoxSports2.ar.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 2 ARG
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-id="a014" tvg-name="DEPORTES | FOX SPORTS 3 ARG HD" tvg-logo="https://static.epg.best/ar/FoxSports3.ar.png" group-title="DEPORTES",DEPORTES | FOX SPORTS 3 ARG HD
