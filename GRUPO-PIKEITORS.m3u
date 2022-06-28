@@ -65,12 +65,12 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-id="a037" tvg-name="CINE | STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS",CINE | STAR CHANNEL HD#EXTINF:-1 tvg-id="a037" tvg-name="CINE | STAR CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="PELICULAS",CINE | STAR CHANNEL HD
 http://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-id="a00y" tvg-name="CINE | A&E HD" tvg-logo="https://static.epg.best/pt/AandE.pt.png" group-title="PELICULAS",CINE | A&E HD
-http://edge4-sl.cvattv.com.ar/live/live/AEHD/SA_SAGEMCOM/AEHD.m3u8
+https://edge-vod02-sl.cvattv.com.ar//live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1 tvg-id="a030" tvg-name="CINE | CINECANAL HD" tvg-logo="https://static.epg.best/ar/Cinecanal.ar.png" group-title="PELICULAS",CINE | CINECANAL HD
 http://edge-live11-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-id="a002" tvg-name="CINE | CINEMAX HD" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="PELICULAS",CINE | CINEMAX HD
-http://edge5-hr.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
-#EXTINF:-1 tvg-id="a001" tvg-name="CINE | HBO HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="PELICULAS",CINE | HBO HD
+https://edge-vod02-sl.cvattv.com.ar//live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+x#EXTINF:-1 tvg-id="a001" tvg-name="CINE | HBO HD" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="PELICULAS",CINE | HBO HD
 http://edge-live31-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | COMEDY CENTRAL HD" tvg-logo="https://static.epg.best/ar/ComedyCentral.ar.png" group-title="PELICULAS",CINE | COMEDY CENTRAL HD
 http://edge4-sl.cvattv.com.ar/live/live/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
