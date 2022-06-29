@@ -40,6 +40,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs4/vintequatr
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-id="53" tvg-name="ESPN 2 SD" tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title="DEPORTES",ESPN 2 SD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8|Referer=https://futemax.app/
+#EXTINF:-1 tvg-id="" tvg-name="BR: Conmebol Tv 1" tvg-logo="" group-title="DEPORTES",BR: Conmebol Tv
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/playlist.m3u8|Referer=http://futemax.app/
 #EXTINF:-1 tvg-id="a00u" tvg-name="DEPORTES | ESPN HD" tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTES",DEPORTES | ESPN HD
 http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 HD (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",ESPN 2  (ARG)
