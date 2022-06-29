@@ -5,7 +5,7 @@ http://edge2-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/.png"group-title="NACIONALES",PAR|CANALPRO
 http://edge8-ccast-hr.cvattv.com.ar/live/live/Canal_PRO/SA_SAGEMCOM/Canal_PRO.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title="NACIONALES",PAR|ABCTVHD
-http://edge2-sl.cvattv.com.ar:live/c5eds/ABC_TV_C4/SA_SAGEMCOM/ABC_TV_C4.m3u8
+https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
 #EXTINF:-1tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1.png"group-title="NACIONALES",PAR|C9NHD
 https://edge2-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 #EXTINF:-1tvg-logo="https://static.epg.best/py/SNT.py.png"group-title="NACIONALES",PAR|SNTHD
