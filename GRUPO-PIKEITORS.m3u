@@ -1,7 +1,7 @@
 #EXTINF:-1tvg-logo="https://static.epg.best/py/Telefuturo.py.png"group-title="NACIONALES",PAR|TELEFUTUROHD
 http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 #EXTINF:-1tvg-logo="https://od.lk/s/ODBfMzI1NDMxMTFf/GEN%20TV.png"group-title="NACIONALES",PAR|GENTVHD
-https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w72705889.m3u8
+http://edge2-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/.png"group-title="NACIONALES",PAR|CANALPRO
 http://edge8-ccast-hr.cvattv.com.ar/live/live/Canal_PRO/SA_SAGEMCOM/Canal_PRO.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title="NACIONALES",PAR|ABCTVHD
