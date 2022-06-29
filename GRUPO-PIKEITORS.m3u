@@ -54,6 +54,16 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 http://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8?SBNhttp://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_SAGEMCOM/ESPN3_Uy-Py.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ar/FoxSports.ar.png" group-title="DEPORTES",  DEPORTES | FOX SPORTS 1 ARG
 http://edge10-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1 tvg-id="AR - ESPN 2" tvg-name="ESPN 2 (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",ESPN 2  (ARG)
+https://edge-vod04-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1 tvg-id="AR - ESPN 3" tvg-name="ESPN 3 (ARG)" tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",ESPN 3  (ARG)
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-name="Fox Sports 2 (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES",Fox Sports 2  (ARG)
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3  (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES",Fox Sports 3 (ARG)
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports  (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="DEPORTES",TyC Sports  (ARG)
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/0ffebd64fc69a101ad0a45917e5ce1b5.png" group-title="DEPORTES",  SporTV HD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="DEPORTES",  SporTV 2 HD BR
