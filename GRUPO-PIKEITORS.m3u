@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://i0.wp.com/degolagolec.com/wp-content/uploads/2021/12/copa-sudamericana.jpg?w=1200&ssl=1" group-title="DEPORTES", SPORT TV
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Ñ" tvg-logo="https://i0.wp.com/degolagolec.com/wp-content/uploads/2021/12/copa-sudamericana.jpg?w=1200&ssl=1" group-title="DEPORTES",BEIN Ñ
+http://fxorexworld.com:8080/live/TkOU3P7ENs/1sOgOXGf7h/1171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes1/esportes1_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1tvg-logo="https://static.epg.best/py/Telefuturo.py.png"group-title="NACIONALES",PAR|TELEFUTUROHD
