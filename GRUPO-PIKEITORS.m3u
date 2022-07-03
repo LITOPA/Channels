@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="F1" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="DEPORTES", FORMULA 1
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/329923.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="DEPORTES", FORMULA 1
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35079.ts
+http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/127982.ts
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1tvg-logo="https://static.epg.best/py/Telefuturo.py.png"group-title="NACIONALES",PAR|TELEFUTUROHD
