@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="DEPORTES", ESPN DEPORTES 
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/127982.ts
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="DEPORTES", DIRECTV SP.
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/175px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES", DIRECTV SP.
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371358.ts
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
