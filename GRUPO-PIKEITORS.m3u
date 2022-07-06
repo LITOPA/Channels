@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", SPORT TV
+http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1486.m3u8|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", DAZN
+http://dreamsat.ddns.me:8080/live/SP-SPAIN/eTXAxbMw/1363.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", DAZN
+http://dreamsat.ddns.me:8080/live/SP-SPAIN/eTXAxbMw/1364.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
 
@@ -42,6 +51,3 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 
 #EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="DEPORTES",  SporTV 2 BR
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", SPORT TV
-http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1486.m3u8|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
