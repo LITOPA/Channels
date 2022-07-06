@@ -43,5 +43,3 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 #EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="DEPORTES",  SporTV 2 BR
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
 
-#EXTINF:-1 prueba
-http://dreamsat.ddns.me:8080/live/SP_USACAN/s5YzKEjK/3858.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
