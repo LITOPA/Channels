@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Ñ" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", BEIN Ñ
-http://dreamsat.ddns.me:8080/live/SP_USACAN/s5YzKEjK/3858.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
-
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", SPORT TV
 http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1486.m3u8|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
 
