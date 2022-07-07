@@ -1,3 +1,15 @@
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", SPORT TV
+http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1486.m3u8|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", DAZN
+http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1363.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES", DAZN
+http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1364.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="https://i0.wp.com/degolagolec.com/wp-content/uploads/2021/12/copa-sudamericana.jpg?w=1200&ssl=1" group-title="DEPORTES",DAZN
+http://dreamsat.ddns.me:8080/live/Snappy_SD/p2h8yFB1/1365.ts|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
+
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
 
