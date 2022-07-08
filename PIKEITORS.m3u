@@ -1,9 +1,3 @@
-#EXTINF:-1tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png"group-title="NACIONALES",PAR|NPYHD
-https://rds3tf.desdeparaguay.net:443/npy/npy_int_alta/chunklist_w1040104216.m3u8
-
-#EXTINF:-1tvg-logo="https://static.epg.best/py/Telefuturo.py.png"group-title="NACIONALES",PAR|TELEFUTUROHD
-https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_alta/chunklist_w281894000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
 
