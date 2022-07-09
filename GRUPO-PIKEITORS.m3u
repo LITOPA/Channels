@@ -117,3 +117,5 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/inde
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/0/09/TV_Chile_2020.svg/revision/latest?cb=20210109041540&path-prefix=es" group-title=", TV CHILE
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Telefe#/media/Archivo%3ATelefe_(nuevo_logo).png" group-title=", TELEFE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
