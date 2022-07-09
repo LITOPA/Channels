@@ -81,3 +81,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/i
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title=", ID Discovery
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title=", Studio Universal
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/MTV_1981_logo_%28no_outline%29.svg/300px-MTV_1981_logo_%28no_outline%29.svg.png" group-title=", MTV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
