@@ -83,6 +83,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9jkppMcsHpk/YG4eEGNPyII/AAAAAAAAQK0/X7CvjU1UbL0URQbi2ny2Iq0gq7zx9qFQgCLcBGAsYHQ/s400/166986594_4144847278860731_3210902760820712213_n.png" group-title="Infantil", DISCOVERY KIDS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="Infantil", DISNEY JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title=", ID Discovery
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title=", Studio Universal
