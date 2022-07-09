@@ -4,7 +4,7 @@ https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd785
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title=", UNICANALHD
 http://45.55.127.106/live/unicanal.m3u8
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGDYWXUiFuOwT0bTzYF42rEMR_MpVs7wXO22rCVU-ymCVavMU5b1btebO1bkdNYKdqA&usqp=CAU"group-title=", FARRA PLAY
+#EXTINF:-1tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
 http://159.203.148.226/live/farra.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
