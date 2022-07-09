@@ -79,6 +79,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title=", Nickelodeon
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title= ", NICK JR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title=", ID Discovery
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title=", Studio Universal
