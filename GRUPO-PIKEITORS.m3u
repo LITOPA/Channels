@@ -49,7 +49,7 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatr
 
 #EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title="DEPORTES",  SporTV 2 BR
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s900-ck-c0x00ffffff-no-rj" group-title="Deportes", AMERICA SPORTS
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s900-ck-c0x00ffffff-no-rj" group-title=", AMERICA SPORTS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title=",A&E
 https://mrzqaxwrylhfdrtw.com.co/xtyaploerwalmk/meganew.php?id=1
@@ -90,9 +90,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/i
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title= ", NICK JR
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9jkppMcsHpk/YG4eEGNPyII/AAAAAAAAQK0/X7CvjU1UbL0URQbi2ny2Iq0gq7zx9qFQgCLcBGAsYHQ/s400/166986594_4144847278860731_3210902760820712213_n.png" group-title="Infantil", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9jkppMcsHpk/YG4eEGNPyII/AAAAAAAAQK0/X7CvjU1UbL0URQbi2ny2Iq0gq7zx9qFQgCLcBGAsYHQ/s400/166986594_4144847278860731_3210902760820712213_n.png" group-title=", DISCOVERY KIDS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="Infantil", DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title=", DISNEY JUNIOR
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title=", ID Discovery
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
