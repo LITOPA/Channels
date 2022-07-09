@@ -7,7 +7,7 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title=", MEGA TV
 https://rds3.desdeparaguay.net/megatv/megatv/chunklist_w1824131993.m3u8
 #EXTINF:-1tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
-http://159.203.148.226/live/farra.m3u8
+http://159.203.148.226/live/farra_mid.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU" group-title=",Frutillar TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title=",BM TV
