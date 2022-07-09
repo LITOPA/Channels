@@ -115,3 +115,5 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-defa
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/250px-MTV_Hits_2021.svg.png" group-title=", MTV HITS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/0/09/TV_Chile_2020.svg/revision/latest?cb=20210109041540&path-prefix=es" group-title=", TV CHILE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
