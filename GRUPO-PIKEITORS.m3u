@@ -125,3 +125,23 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/i
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/200?cb=20200116023058&path-prefix=es" group-title=", EL TRECE ARG
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274076220_10168116682470206_4488884362700458870_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=aQ-bmzfmEt8AX8ReD2G&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT9ll5J9Oyw5jCFUTZFygCa6dZI4d9L7RJApa2SngDHiIw&oe=6212CB7F" group-title=",  TOCAHITS RETROMIX
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39075
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274089160_10168116682540206_1975255556145910683_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=huobr4dPOA8AX-y8Vul&_nc_oc=AQnyGRKpf4UIsvxV5J3F-gZOGXljQ0idv-Q3ap-1GgUGCuMZDveYyZbZFxJmNbZxbrY&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT_XHqg8Xfe4kVRBJQLxh1e3DtafcOZJSBNZEJaNX_KZiQ&oe=62121CD8" group-title=",  TOCAHITS URBANO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/39837
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/273803257_10168116682380206_4632870264041106756_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=XkQWvA_79tsAX-0Ro2_&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT9gXohEeMpaP7qGiULInWXi7QPkx7G24P9cMu1Zvh8pSQ&oe=62125249" group-title=",  TOCAHITS RETRO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/42485
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/273938426_10168116682235206_5181229555945835217_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=730e14&_nc_ohc=TagfTXf17IQAX8EJM6t&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT-zdOqw3w0x-94UfDDSVslPjDUXe-pu4wfi0W4SpDfWBA&oe=62118AEC" group-title=",  TOCAHITS LATINO
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/43219
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274124235_10168116682195206_2603708748575280410_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=PokxYX4NjuAAX_AYa2K&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT9tktLl_GUtOsNdp0KiSu_zsuIqSuQlVd_NOlwr6UdGtA&oe=6211C39B" group-title=",  TOCAHITS MIX POP
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/47432
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/273880316_10168116682180206_1215138843916769410_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=GWEeE384suAAX_bt5Wk&tn=iaPjiED9wwR1jd8D&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT_W1Gr2CK9IONe5zjANlZOCxYBA1eYxAfeAAhymPL68zQ&oe=6212C0F9" group-title=", TOCAHITS POP
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/52637
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/273803072_10168116704700206_3778615117881649583_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=OtIZIkE1EJMAX9Eaa-F&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT9KCG_EqHtzR9eTYAe1sbn0VkTXVTOiAPuVcPFKDBmrwQ&oe=62110B29" group-title=",  TOCAHITS CONCIERTOS LIVE
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274065204_10168116682485206_856189305216511346_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=sfhdtjWHO2AAX8IHMnf&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT_6TVDlC5QoVNfJTtLE_Pt1hTGQJtp2isiYlJvrYNSeaA&oe=621240BF" group-title=",,  TOCAHISTS ROCK
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
+#EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274149233_10168116709605206_2050495513433971623_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=DESCqaSpSoUAX9cAOwd&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT_qexnIyyFKMs9ojZRgwltZWT6a-Y79v1XQ60xesyipaQ&oe=6211F942" group-title=",  TOCAHITS KARAOKE
+http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/97973
+
