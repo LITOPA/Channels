@@ -19,7 +19,8 @@ http://titanicos.net:8080/trading131sdRes/EREPQGarev/329923
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pa/ESPNLatinAmericaNorth.pa.png" group-title="DEPORTES",  DEPORTES | ESPN HD
-http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371348.ts
+https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-mp4a_145200_spa=20000-avc1_1499968=10002.m3u8
+-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="DEPORTES",  ESPN 2
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/31814.ts
@@ -144,7 +145,3 @@ http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
 #EXTINF:-1 tvg-logo="https://scontent.fqrc1-1.fna.fbcdn.net/v/t39.30808-6/274149233_10168116709605206_2050495513433971623_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_ohc=DESCqaSpSoUAX9cAOwd&_nc_ht=scontent.fqrc1-1.fna&oh=00_AT_qexnIyyFKMs9ojZRgwltZWT6a-Y79v1XQ60xesyipaQ&oe=6211F942" group-title=",  TOCAHITS KARAOKE
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/97973
-
-#EXTINF:-1 ESPN
-https://edge1.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD-mp4a_145200_spa=20000-avc1_1499968=10002.m3u8
--mp4a_145200_spa=20000.m3u8
