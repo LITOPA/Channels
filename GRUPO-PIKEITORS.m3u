@@ -1,16 +1,18 @@
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title=", ABCTVHD
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title="Paraguay", ABCTVHD
 https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title=", TRECEHD
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title="Paraguay", TRECEHD
 https://stream.rpc.com.py/live/trece.m3u8
-#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title=", UNICANALHD
+#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title="Paraguay", UNICANALHD
 http://45.55.127.106/live/unicanal.m3u8
-#EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title=", MEGA TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2014/12/logoParaguayTv.jpg?w=620&ssl=1" group-title="Paraguay", PY TV
+https://live.vimeocdn.com:443/1657717154-0xa4027dc510c304342582ae8b05f6f532f36bd16e/bade3ffe-e6f1-4a95-bf3b-c077d60d41ee/chunklist_b3256000.m3u8
+#EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title="Paraguay", MEGA TV
 https://rds3.desdeparaguay.net/megatv/megatv/chunklist_w1824131993.m3u8
-#EXTINF:-1tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
+#EXTINF:-1tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title="Paraguay", FARRA PLAY
 http://159.203.148.226/live/farra_mid.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU" group-title=",Frutillar TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU" group-title="Paraguay",Frutillar TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title=",BM TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title="Paraguay",BM TV
 https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" tvg-logo="https://images.beinsports.com/KedHT4fhVvwm_JA2PiHd8ipq6KU=/410x260/smart/1381177-hamilton-efe.png" group-title=", Formula 1
