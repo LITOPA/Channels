@@ -1,6 +1,6 @@
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="NACIONALES", TELEFUTURO HD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60568.ts
-#EXTINF:-1tvg-logo="https://i0.wp.com/www.tvenserio.com/wp-content/uploads/2019/08/sntrebrand.jpg?w=900&ssl=1"group-title="NACIONALES", SNT
+#EXTINF:-1tvg-logo="http://img.tvcl.xyz/paraguay/snt.png"group-title="NACIONALES", SNT
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60566.ts
 #EXTINF:-1tvg-logo="https://www.television.com.py/wp-content/uploads/2017/04/C9N-logo1.png"group-title="NACIONALES", C9N HD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/102406.ts
