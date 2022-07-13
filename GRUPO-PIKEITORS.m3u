@@ -1,4 +1,4 @@
-#EXTINF:-1tvg-logo="https://static.epg.best/py/Telefuturo.py.png"group-title="NACIONALES", TELEFUTUROHD
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="NACIONALES", TELEFUTUROHD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60568.ts
 #EXTINF:-1tvg-logo="https://static.epg.best/py/SNT.py.png"group-title="NACIONALES", SNT
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60566.ts
