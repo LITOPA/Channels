@@ -39,7 +39,7 @@ http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/232227.m3u8
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES",  Fox Sports 2  (ARG)
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26533.m3u8
 
-#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3  (ARG)" tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES",Fox Sports 3 (ARG)
+#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-name="Fox Sports 3  (ARG)" tvg-logo="https://es.m.wikipedia.org/wiki/Fox_Sports_3_(Latinoam%C3%A9rica)#/media/Archivo%3AFox_sports_3_logo.svg" group-title="DEPORTES",Fox Sports 3 (ARG)
 https://edge1.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD-mp4a_144800_spa=20000-avc1_1972000=10002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Ñ" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="DEPORTES",BEIN Ñ
