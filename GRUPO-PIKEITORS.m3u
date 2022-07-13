@@ -1,6 +1,6 @@
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="NACIONALES", TELEFUTUROHD
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60568.ts
-#EXTINF:-1tvg-logo="https://static.epg.best/py/SNT.py.png"group-title="NACIONALES", SNT
+#EXTINF:-1tvg-logo="https://es.m.wikipedia.org/wiki/SNT#/media/Archivo%3ASNT_2013_logotype.png"group-title="NACIONALES", SNT
 http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/60566.ts
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title="NACIONALES", ABCTVHD
 https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
