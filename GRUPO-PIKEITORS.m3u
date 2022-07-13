@@ -1,8 +1,8 @@
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Abc_color.PNG"group-title=", ABCTVHD
 https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title="NACIONALES", TRECEHD
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title=", TRECEHD
 https://stream.rpc.com.py/live/trece.m3u8
-#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title="NACIONALES", UNICANALHD
+#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title=", UNICANALHD
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title=", MEGA TV
 https://rds3.desdeparaguay.net/megatv/megatv/chunklist_w1824131993.m3u8
