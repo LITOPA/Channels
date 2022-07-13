@@ -107,6 +107,8 @@ https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title=", Discovery Channel
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX21ZTqddlO31hOYGNmWiTKy4h6rkhYafqKamAkQ=s900-c-k-c0x00ffffff-no-rj" group-title=", Discovery Turbo
+https://edge1.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo-mp4a_144800_spa=20000-avc1_1480000=10002.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphoHmgXFW0G0uykugugDg3kPsWLNY8ymGjiY6e8fYt2MhCEwDLSOjxUwjTg4tQr2kojo&usqp=CAU" group-title=", Discovery World
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180424/qbw/kisspng-discovery-science-discovery-channel-television-cha-civilization-network-5adf95bd739af6.0958163515246023014735.jpg" group-title=", Discovery Science
