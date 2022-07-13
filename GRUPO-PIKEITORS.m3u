@@ -65,6 +65,8 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/DirecTV_Plus_2005_logo.png/revision/latest/scale-to-width-down/200?cb=20201023183946&path-prefix=es" group-title=", DIRECTV SP+
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/879/ktfi3Kd8ePgZeTDKd6QVkm7zEKrD.m3u8|User-Agent=rNx7znJAj2jBkjrLVFmX9bAWt7f3d4BJmzHX61MFJg64etg74tYqg2J4zQRcNfeMh7xBOniYdEpLc7HrNPHmztg2rU7Kk7rDzgUu8CTeN2mu2d6r4VitBzZUhMb79y5hAJjiNUHx5c6d8sYcDhVk37AqS8Hyk9wQG8k7gPqT9DPM9mBm7xtJ5NtSrdSjtpwJD6U5DJ8Ty7D72fz3HfVxUFKbcv7NpH7r
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-name="TyC Sports  (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/tyc.png" group-title="DEPORTES",TyC Sports
+https ://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s900-ck-c0x00ffffff-no-rj" group-title=", AMERICA SPORTS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
