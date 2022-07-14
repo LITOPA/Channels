@@ -9,5 +9,5 @@ https://www.desdepylabs.com/external/tvaccionmov/telefuturo
 #EXTINF:-1 tvg-id="NPY" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="NOTICIAS", NPY
 https://www.desdepylabs.com/external/tvaccionmov/npy
 
-#EXTINF:-1 tvg-id="NPY" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="DEPORTES", SP. ONLINE
-https://futbollibre.net/en-vivo/espn-1/?tv
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="SERIES", HBO MUNDI
+https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD-mp4a_144800_spa=20000-avc1_1726000=10002.m3u8
