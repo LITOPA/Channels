@@ -22,6 +22,10 @@ https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NOTICIAS", CANAL 26  24.2
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
 
+{"name": "CANALES DEPORTES INTERNACIONALES",
+"image": "https://i.ibb.co/t4W1XHs/pngwing-com.png",
+"stations": [
+
 {"name": "SPORTTV 1 (PORTUGAL)",
 "image": "https://i.ibb.co/2S702Dw/unnamed.png",
 "url": "https://v2.sportsonline.to/channels/pt/sporttv1.php"},
