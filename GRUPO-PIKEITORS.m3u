@@ -168,10 +168,3 @@ http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
 #EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2022/03/TocaHitsKaraoke.jpg" group-title=", TOCAHITS KARAOKE
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/97973
-
-#EXTINF:-1 ", ??
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/3e76face-cdb3-4231-a00b-13ad5aad1dec:BRU/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8|Referer=https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=true
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="NACIONALES", TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="NACIONALES", CANAL 9  35.1
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
