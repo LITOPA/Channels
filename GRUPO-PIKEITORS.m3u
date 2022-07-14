@@ -164,3 +164,6 @@ http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/64256
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/65357
 #EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2022/03/TocaHitsKaraoke.jpg" group-title=", TOCAHITS KARAOKE
 http://tv.streamid.ga:8080/24MixRIAL7/24MixRIAL7/97973
+
+#EXTINF:-1, FOX
+https://edge3.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
