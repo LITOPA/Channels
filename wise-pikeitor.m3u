@@ -14,3 +14,6 @@ https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd785
 
 #EXTINF:-1 tvg-id="SNT" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/08/El-SNT-es-el-l%C3%ADdeo-indiscutible-de-la-programaci%C3%B3n-de-la-Televisi%C3%B3n-Paraguaya.jpg" group-title=", SNT
 https://www.snt.com.py/envivo/
+
+#EXTINF:-1 tvg-id="C9N" tvg-country="PRY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2017/04/C9N-logo1.png?w=1007&ssl=1" group-title=", C9N
+https://www.c9n.com.py/envivo/
