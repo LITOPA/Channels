@@ -6,14 +6,20 @@
   "imageScale": "fitCenter",
   "groups": [
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NOTICIAS", CANAL 26  24.2
-https://piratilla.com/496042/eu?ch=1
-
-#EXTINF:-1 tvg-id="telefuturo" tvg-country=PRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="NOTICIAS", Telefutro
-https://www.desdepylabs.com/external/tvaccionmov/telefuturo
-
-#EXTINF:-1 tvg-id="NPY" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="NOTICIAS", NPY
-https://www.desdepylabs.com/external/tvaccionmov/npy
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="SERIES", HBO MUNDI
-https://edge1.prepro.cvattv.com.ar/live/vod/Max_HD/SA_Live_WebVTT_FTA/Max_HD-mp4a_144800_spa=20000-avc1_1726000=10002.m3u8
+{
+      "name": "Televisión",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOQzHTKB9Wc2eA8pUR2VrwGCL_gebs07qc30OR2IwVo2Wt2E3n",
+      "info": "Recuerda sincronizar la lista antes o justo al inicio de los eventos para tener las últimas señales disponibles. Para los canales que se abren externamente 鈫楋笍, pulsar en el icono de Play 鈻讹笍 con un culo en cuanto aparezca para abrir en el reproductor.",
+      "groups": [
+        {
+          "name": "DIGITAL TV",
+          "author": "Playlist Developers",
+          "image": "https://img2.bpicc.com/2021/01/19/139972011_425798738536027_43631429535030256_n.png",
+          "url": "",
+          "stations": [
+            {
+              "name": "",
+              "image": "https://www.img.in.th/images/b6baeeeb452a920861e272dde731782b.png",
+              "url": "http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8",
+              "playInNatPlayer": "true"
+            },
