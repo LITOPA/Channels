@@ -17,3 +17,7 @@ https://www.snt.com.py/envivo/
 
 #EXTINF:-1 tvg-id="C9N" tvg-country="PRY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2017/04/C9N-logo1.png?w=1007&ssl=1" group-title=", C9N
 https://www.c9n.com.py/envivo/
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title=", TRECEHD
+https://stream.rpc.com.py/live/trece.m3u8
+#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png"group-title=", UNICANALHD
+http://45.55.127.106/live/unicanal.m3u8
