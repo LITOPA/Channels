@@ -26,3 +26,6 @@ http://45.55.127.106/live/unicanal.m3u8
 
 #EXTINF:-1 tvg-id="GENTV" tvg-country="PRY" tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s320/gen.png" group-title=", GENTV
 https://www.desdepylabs.com/external/tvaccionmov/gentv
+
+EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title=", CANAL 9 ARG
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8|Referer=https://futemax.app/
