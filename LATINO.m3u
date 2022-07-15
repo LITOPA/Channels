@@ -1,4 +1,10 @@
-#EXTM3U
+{
+  "name": "     Litopa",
+  "author": "Litopa - 15/07/2022",
+  "url": "https://github.com/LITOPA/Channels/edit/main/LATINO.m3u",
+  "image": "https://i.imgur.com/s3de6g7.gif",
+  "imageScale": "fitCenter",
+  "groups": [
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="NOTICIAS", CANAL 26  24.2
 https://piratilla.com/496042/eu?ch=1
