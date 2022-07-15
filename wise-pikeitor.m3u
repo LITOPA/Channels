@@ -21,7 +21,7 @@ https://www.c9n.com.py/envivo/
 #EXTINF:-1tvg-id="RPC" tvg-country"PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2019/06/RPC-En-Vivo-Canal-13-Online.png" group-title=", TRECEHD
 https://stream.rpc.com.py/live/trece.m3u8
 
-#EXTINF:-1tvg-logo="https://static.epg.best/py/Unicanal.py.png" group-title=", UNICANALHD
+#EXTINF:-1tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title=", UNICANALHD
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-id="GENTV" tvg-country="PRY" tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s320/gen.png" group-title=", GENTV
 https://www.desdepylabs.com/external/tvaccionmov/gentv
