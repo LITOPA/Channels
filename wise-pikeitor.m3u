@@ -27,11 +27,8 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-id="GENTV" tvg-country="PRY" tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s320/gen.png" group-title=", GENTV
 https://www.desdepylabs.com/external/tvaccionmov/gentv
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title=", CANAL 9 ARG
-https://www.canalpro.com.py/en-vivo
-
 #EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title=", MEGA TV
 https://rds3.desdeparaguay.net/megatv/megatv/chunklist_w1824131993.m3u8
 
-#EXTINF:-1tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
+#EXTINF:-1tvg-id="FARRA PLAY" tvg-country="PRY" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
 http://159.203.148.226/live/farra_mid.m3u8
