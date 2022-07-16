@@ -83,13 +83,13 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/d8f03d89b4084fa1737f2165fb05b991.jpg" group-title=",  SporTV 2 HD BR
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title=",  Premiere Clubes FHD BR
+#EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title=", Premiere
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title=",  Premiere 2 HD
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES",  PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title=",  ESPN 4 SD BR
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title=", ESPN 4 SD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title=",  ESPN 2 SD BR
+#EXTINF:-1 tvg-logo="http://u.meulogin.net:80/images/9b229d23bd7f92559f40790bb9f0449d.png" group-title=", ESPN 2 SD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes8/esportes8_2000/index.m3u8|Referer=https://futemax.app/
