@@ -87,7 +87,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/i
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="http://ux.minhatela.vip:80/images/51b2a1da0ed665b405d7ba83324ffb02.png" group-title=",  Premiere 2 HD
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=",  PREMIERE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=", DEPORTES tvg-logo"https://st4.depositphotos.com/1229718/30484/i/450/depositphotos_304845526-stock-photo-sports-equipment-background.jpg" PREMIERE
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes3/esportes3_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn4.png" group-title=", ESPN 4 SD BR
 https://newedge.eu-central-1.edge.mycdn.live:443/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8|Referer=https://futemax.app/
