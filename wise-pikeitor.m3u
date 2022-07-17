@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",goti+
+http://23.237.202.74:7283/6msguqsw4fkai4ws2lrngjqtbh4h6hg03lft4adcj9u37rabjmyku37814k9h149zhh/index.m3u8?un=LDCHANCR001&tm=1658087610&sn=Hy7aFAKs5qa3Y0gFvgSkX75kKeJ
 
 #EXTINF:-1 tvg-id="telefuturo" tvg-country="PRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title=", TELEFUTURO 
 https://www.desdepylabs.com/external/tvaccionmov/telefuturo
