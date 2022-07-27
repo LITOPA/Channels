@@ -50,3 +50,5 @@ https://dplayit.akamaized.net/EHD_929436I_DPLAY_SPAIN/0/hls/EHD_929436I_DPLAY_SP
 https://dplayit.akamaized.net/EHD_929437I_DPLAY_SPAIN/0/hls/EHD_929437I_DPLAY_SPAIN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://resizing.flixster.com/Spz_2fu5AuB0RATPKIqdevoDymM=/206x305/v2/https://flxt.tmsimg.com/assets/p13844721_b_v13_aa.jpg" group-title="TEMP 1", 
 https://dplayit.akamaized.net/EHD_929438I_DPLAY_SPAIN/0/hls/EHD_929438I_DPLAY_SPAIN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DOCUMENTALES", TITANIC
+https://dplayes-google-v2.prod-vod.h264.io/5f0e8d55-f5bf-4a87-941e-4001b2edf3c2/6a16d54c-1f90-4305-b56f-03500c54a1dc/hls_clear_ts/x-goog-token=Expires=1658937053&KeyName=prod-sign-url-key-eu&Signature=Jbz8QZSGf8oMqIN4G9Un2O_gMuE/v1_video/prog_index.m3u8
