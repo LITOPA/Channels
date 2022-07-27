@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
 https://jac-tv.com/tvseg1/espn.php
+
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title=", Sport TV
+https://v3.sportsonline.to/channels/pt/sporttv1.php
