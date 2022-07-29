@@ -18,4 +18,6 @@ https://srv.vhls.ru.com:443/cdn/premium530/tracks-v1a1/mono.m3u8|Referer=https:/
 https://srv.vhls.ru.com/cdn/premium537/playlist.m3u8|Referer=https://eplayer.click/
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title=", MATCH TV
 https://srv.vhls.ru.com:443/cdn/premium1/tracks-v1a1/mono.m3u8|Referer=https://eplayer.click/
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", ESPN+
+https://reels2watch.com/hls/s3.m3u8|Referer=https://techoreels.com/30225/s3/
 
