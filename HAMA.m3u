@@ -4,3 +4,5 @@ http://ksllaoss.azureedge.net:80/stream/NDYzOQ==/1080p.m3u8|Referer=http://1stre
 https://srv.vhls.ru.com:443/cdn/premium35/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", ELEVEN SPORT
 https://srv.vhls.ru.com/cdn/premium71/tracks-v1a1/mono.m3u8|Referer=https://eplayer.click/
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", SPORT-TV
+https://srv.vhls.ru.com:443/cdn/premium49/tracks-v1a1/mono.m3u8|Referer=https://eplayer.click/
