@@ -32,3 +32,5 @@ http://cdn.raino.xyz/hls/stream40.m3u8|Referer=http://bdnewszh.com/
 http://cdn.raino.xyz/hls/stream5.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", futbol
 https://cdn3.reels2watch.com/hls/s1.m3u8|Referer=https://techoreels.com/30226/s1/
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", Espn Premium
+https://srv.vhls.ru.com/cdn/premium387/tracks-v1a1/mono.m3u8|Referer=https://eplayer.click/
