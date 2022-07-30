@@ -25,4 +25,4 @@ https://srv.vhls.ru.com:445/cdn/premium445/tracks-v1a1/mono.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=", SuperSport
 http://cdn.raino.xyz/hls/stream45.m3u8|Referer=http://bdnewszh.com/
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="" group-title=", ELEVEN5
-http://cdn.raino.xyz/hls/stream5.m3u8|Referer=https://bdnewszh.com/
+http://cdn.raino.xyz/hls/stream5.m3u8|Referer=http://bdnewszh.com/
