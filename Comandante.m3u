@@ -105,7 +105,7 @@ https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes10/esportes10_2000
 https://newedge.eu-central-1.edge.mycdn.live:443/live/esportes22/esportes22_2000/index.m3u8|Referer=https://futemax.app/
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DEPORTES", Pikeitor1
 http://89.187.181.4/live/LVH60Ml8Hc/O4XSkHm6Yj/304424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="DEPORTRES", PIKEITOR2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="DEPORTES", PIKEITOR2
 http://89.187.181.4/live/LVH60Ml8Hc/O4XSkHm6Yj/304423.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="DEPORTES", ESPN
