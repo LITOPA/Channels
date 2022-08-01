@@ -1,49 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="telefuturo" tvg-country="PRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title=", TELEFUTURO 
+#EXTINF:-1 tvg-id="telefuturo" tvg-country="PRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Telefuturo2017.png/150px-Telefuturo2017.png" group-title="PARAGUAY", TELEFUTURO 
 https://www.desdepylabs.com/external/tvaccionmov/telefuturo
 
-#EXTINF:-1 tvg-id="NPY" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title=", NPY
+#EXTINF:-1 tvg-id="NPY" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="PARAGUAY", NPY
 https://www.desdepylabs.com/external/tvaccionmov/npy
 
-#EXTINF:-1 tvg-id="" tvg-name="LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title=", LA TELE
+#EXTINF:-1 tvg-id="" tvg-name="LA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY", LA TELE
 https://www.desdepylabs.com/external/tvaccionmov/latele
 
 
-#EXTINF:-1 tvg-id="ABC TV" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title=", ABCTVHD
+#EXTINF:-1 tvg-id="ABC TV" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="PARAGUAY", ABCTVHD
 https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
 
-#EXTINF:-1 tvg-id="SNT" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/08/El-SNT-es-el-l%C3%ADdeo-indiscutible-de-la-programaci%C3%B3n-de-la-Televisi%C3%B3n-Paraguaya.jpg" group-title=", SNT
+#EXTINF:-1 tvg-id="SNT" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/08/El-SNT-es-el-l%C3%ADdeo-indiscutible-de-la-programaci%C3%B3n-de-la-Televisi%C3%B3n-Paraguaya.jpg" group-title="PARAGUAY", SNT
 https://www.snt.com.py/envivo/
 
-#EXTINF:-1 tvg-id="C9N" tvg-country="PRY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2017/04/C9N-logo1.png?w=1007&ssl=1" group-title=", C9N
+#EXTINF:-1 tvg-id="C9N" tvg-country="PRY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2017/04/C9N-logo1.png?w=1007&ssl=1" group-title="PARAGUAY", C9N
 https://www.c9n.com.py/envivo/
 
-#EXTINF:-1 tvg-id="RPC" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2019/06/RPC-En-Vivo-Canal-13-Online.png" group-title=", RPC
+#EXTINF:-1 tvg-id="RPC" tvg-country="PRY" tvg-logo="https://paraguaype.com/wp-content/uploads/2019/06/RPC-En-Vivo-Canal-13-Online.png" group-title="PARAGUAY", RPC
 https://stream.rpc.com.py/live/trece.m3u8
 
-#EXTINF:-1 tvg-id="UNICANAL" tvg-country="PRY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title=", UNICANAL
+#EXTINF:-1 tvg-id="UNICANAL" tvg-country="PRY" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png" group-title="PARAGUAY", UNICANAL
 http://45.55.127.106/live/unicanal.m3u8
 
-#EXTINF:-1 tvg-id="GENTV" tvg-country="PRY" tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s320/gen.png" group-title=", GENTV
+#EXTINF:-1 tvg-id="GENTV" tvg-country="PRY" tvg-logo="https://1.bp.blogspot.com/-qEOh3DrIvJQ/X4X3vPe1plI/AAAAAAAAHP4/JTIm_HTKpm4Z-Bdu68cq9ioGTq_qVOH-QCLcBGAsYHQ/s320/gen.png" group-title="PARAGUAY", GENTV
 https://www.desdepylabs.com/external/tvaccionmov/gentv
 
-#EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title=", MEGA TV
+#EXTINF:-1 tvg-logo="https://megacadena.com.py/wp-content/uploads/2021/03/img_1547.png" group-title="PARAGUAY", MEGA TV
 https://rds3.desdeparaguay.net/megatv/megatv/chunklist_w1824131993.m3u8
 
-#EXTINF:-1tvg-id="FARRA PLAY" tvg-country="PRY" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title=", FARRA PLAY
+#EXTINF:-1tvg-id="FARRA PLAY" tvg-country="PRY" tvg-logo="https://cdn-profiles.tunein.com/s281085/images/logoq.png"group-title="PARAGUAY", FARRA PLAY
 http://159.203.148.226/live/farra_mid.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU" group-title=",Frutillar TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bNQaCxP0q9-g7W8bLqAKcLyCArHE9lsczGWcrdd6xYMwn27-RVGoAUB4J9JDJORt4FE&usqp=CAU" group-title="PARAGUAY",Frutillar TV
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title=",BM TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1375103386308247557/mpsNXd-8_400x400.jpg" group-title="PARAGUAY",BM TV
 https://tigocloud.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
-#EXTINF:-1 tvg-id="Univision" tvg-country="PRY" tvg-logo="https://landportal.org/sites/landportal.org/files/styles/220heightmax/public/Logo_Univision_2013.svg_.png?itok=543cZS7H" group-title=", Univision
+#EXTINF:-1 tvg-id="Univision" tvg-country="PRY" tvg-logo="https://landportal.org/sites/landportal.org/files/styles/220heightmax/public/Logo_Univision_2013.svg_.png?itok=543cZS7H" group-title="ENTRETENIMIENTO", Univision
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/logo_principal_telemundo.jpg" group-title=", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/logo_principal_telemundo.jpg" group-title="ENTRETENIMIENTO", Telemundo
 https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/392px-Logo_UniM%C3%A1s.svg.png" group-title=", Unimas
+#EXTINF:-1 tvg-id="" tvg-name="Unimas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/392px-Logo_UniM%C3%A1s.svg.png" group-title="ENTRETENIMIENTO", Unimas
 https://v-ny.theus6tv.tk/hls/68.1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="https://p.kindpng.com/picc/s/705-7057836_estrella-tv-logo-2020-hd-png-download.png" group-title=", Estrella TV
+#EXTINF:-1 tvg-id="" tvg-name="Estrella TV" tvg-logo="https://p.kindpng.com/picc/s/705-7057836_estrella-tv-logo-2020-hd-png-download.png" group-title="ENTRETENIMIENTO", Estrella TV
 https://estrellatv-glewed.amagi.tv:443/playlistR720P.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-country=PRY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1920px-2018_Animal_Planet_logo.svg.png" group-title=, ANIMAL PLANET
