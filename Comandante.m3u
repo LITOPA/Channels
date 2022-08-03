@@ -311,3 +311,39 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/660/ktfi3Kd8ePgZeTDKd6QVkm7zEKrD.m3u8|User-Age
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/666/ktfi3Kd8ePgZeTDKd6QVkm7zEKrD.m3u8|User-Agent=rNx7znJAj2jBkjrLVFmX9bAWt7f3d4BJmzHX61MFJg64etg74tYqg2J4zQRcNfeMh7xBOniYdEpLc7HrNPHmztg2rU7Kk7rDzgUu8CTeN2mu2d6r4VitBzZUhMb79y5hAJjiNUHx5c6d8sYcDhVk37AqS8Hyk9wQG8k7gPqT9DPM9mBm7xtJ5NtSrdSjtpwJD6U5DJ8Ty7D72fz3HfVxUFKbcv7NpH7r
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://img2.freepng.es/20180514/eje/kisspng-national-geographic-channel-hd-television-channel-5af97a9c38f133.8560073215262992922332.jpg" group-title="CULTURA", NAT GEO
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/708/ktfi3Kd8ePgZeTDKd6QVkm7zEKrD.m3u8|User-Agent=rNx7znJAj2jBkjrLVFmX9bAWt7f3d4BJmzHX61MFJg64etg74tYqg2J4zQRcNfeMh7xBOniYdEpLc7HrNPHmztg2rU7Kk7rDzgUu8CTeN2mu2d6r4VitBzZUhMb79y5hAJjiNUHx5c6d8sYcDhVk37AqS8Hyk9wQG8k7gPqT9DPM9mBm7xtJ5NtSrdSjtpwJD6U5DJ8Ty7D72fz3HfVxUFKbcv7NpH7r
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", HOROORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", JUNTOS
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 INFANTIL
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/106.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 ACCION
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/103.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 FAMILY
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/104.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CIENCIAFICCIOM
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/105.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 COMEDIA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/107.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 DRAMA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/108.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 TERROR
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/109.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CLASSICS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/110.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 ESTRENOS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/111.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CINEMA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/112.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 PLUS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/113.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+
