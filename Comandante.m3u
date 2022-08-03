@@ -89,9 +89,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/i
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/19/ElTreceInternacional2017.png/revision/latest/scale-to-width-down/200?cb=20200116023058&path-prefix=es" group-title=", EL TRECE ARG
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DEPORTES", Pikeitor1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgmedia.libero.pe/670x396/libero/migration/imagen/2020/10/07/noticia-1602116133-tigo-sports-paraguay.webp" group-title="DEPORTES", Pikeitor1
 http://hidra.live:80/live/1835/1835/304424.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="DEPORTES", PIKEITOR2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/10484954.jpg" group-title="DEPORTES", PIKEITOR2
 http://hidra.live:80/live/1835/1835/304423.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1-750x354.jpg" group-title="DEPORTES", DAZN F1
 http://quebuscasaqui.xyz:8080/play/cKbMSexSIGryJsJjymA9DF76VVdvIRAH6Xsf59cKKy4
