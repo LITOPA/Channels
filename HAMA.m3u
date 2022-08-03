@@ -20,3 +20,18 @@ http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/103.m3u8|User-Agent=PlusMedia
 http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/104.m3u8|User-Agent=PlusMediaPlayer/0.0.9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CIENCIAFICCIOM
 http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/105.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 COMEDIA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/107.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 DRAMA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/108.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 TERROR
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/109.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CLASSICS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/110.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 ESTRENOS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/111.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CINEMA
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/112.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 PLUS
+http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/113.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+
