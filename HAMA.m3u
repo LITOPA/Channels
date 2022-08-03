@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title=", CHAMPIONS
-https://www.vhls.ru.com/cdn/premium121/tracks-v1a1/mono.m3u8|Referer=https://olacast.live/
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title=", liga
+http://103.194.169.74:8000/Wat2uhQAOd/RbQ7KaMJUW/868505?play_token=E1NePBtkvG
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title=", CHAMPIONS
 https://www.vhls.ru.com:443/cdn/premium380/tracks-v1a1/mono.m3u8|Referer=https://olacast.live/
