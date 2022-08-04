@@ -1,41 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", CINE REAL
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", HOROORFY
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", TU CINE
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", JUNTOS
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/1920x1080_5605600/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 INFANTIL
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/106.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 ACCION
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/103.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 FAMILY
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/104.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CIENCIAFICCIOM
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/105.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 COMEDIA
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/107.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 DRAMA
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/108.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 TERROR
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/109.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CLASSICS
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/110.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 ESTRENOS
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/111.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 CINEMA
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/112.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 PLUS
-http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/113.m3u8|User-Agent=PlusMediaPlayer/0.0.9
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES", DAZN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://quemellame.com/wp-content/uploads/2021/02/telefono-gol-tv.png" group-title="DEPORTES", GOL
+https://photocall.tv/ks5g/hls/gol.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://phantom-marca.unidadeditorial.es/443cdb1020ab7957e247cae147aec168/resize/414/f/webp/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg" group-title="DEPORTES", DAZN
 https://daddylive.futbol/stream/stream-445.php
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES", ESPN
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://phantom-marca.unidadeditorial.es/443cdb1020ab7957e247cae147aec168/resize/414/f/webp/assets/multimedia/imagenes/2021/12/31/16409659213820.jpg" group-title="DEPORTES", ESPN
 https://daddylive.futbol/stream/stream-149.php
-
