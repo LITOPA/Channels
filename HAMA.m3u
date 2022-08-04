@@ -36,4 +36,6 @@ http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/112.m3u8|User-Agent=PlusMedia
 http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/113.m3u8|User-Agent=PlusMediaPlayer/0.0.9
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES", DAZN
 https://daddylive.futbol/stream/stream-445.php
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES", ESPN
+https://daddylive.futbol/stream/stream-149.php
 
