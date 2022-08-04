@@ -14,7 +14,7 @@ https://www.desdepylabs.com/external/tvaccionmov/latele
 https://abc-color.cdn.vustreams.com:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8|Referer=https://cdn.jwplayer.com
 
 #EXTINF:-1 tvg-id="SNT" tvg-country="AR" tvg-logo="https://paraguaype.com/wp-content/uploads/2017/08/El-SNT-es-el-l%C3%ADdeo-indiscutible-de-la-programaci%C3%B3n-de-la-Televisi%C3%B3n-Paraguaya.jpg" group-title="PARAGUAY", SNT
-https://www.snt.com.py/envivo/
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 
 #EXTINF:-1 tvg-id="C9N" tvg-country="PRY" tvg-logo="https://i0.wp.com/television.com.py/wp-content/uploads/2017/04/C9N-logo1.png?w=1007&ssl=1" group-title="PARAGUAY", C9N
 https://www.c9n.com.py/envivo/
