@@ -34,4 +34,6 @@ http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/111.m3u8|User-Agent=PlusMedia
 http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/112.m3u8|User-Agent=PlusMediaPlayer/0.0.9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prevensystem.com//componentes/editor/ckfinder/userfiles/images/cine.png" group-title="VARIADOS", 24/7 PLUS
 http://145.239.0.5:8080/live/RV7542vkaJ/chKNV43WTQ/113.m3u8|User-Agent=PlusMediaPlayer/0.0.9
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/06/03/16226992536874.jpg" group-title="DEPORTES",CONMEBOL TV
+http://dreamsat.ddns.me:8080/live/SP-SPAIN/eTXAxbMw/1349.m3u8|User-Agent=REDLINECLIENT_DM_650HD_PRO V3
 
